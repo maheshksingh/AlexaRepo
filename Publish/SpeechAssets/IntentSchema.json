@@ -1,0 +1,52 @@
+﻿{
+  "languageModel": {
+    "invocationName": "factory master",
+    "intents": [
+      {
+        "name": "AMAZON.CancelIntent",
+        "slots": [],
+        "samples": [
+          "bye",
+          "stop",
+          "cancel"
+        ]
+      },
+      {
+        "name": "AMAZON.HelpIntent",
+        "slots": [],
+        "samples": [
+          "provide assistance",
+          "need help"
+        ]
+      },
+      {
+        "name": "AMAZON.StopIntent",
+        "slots": [],
+        "samples": []
+      },
+      {
+        "name": "Part",
+        "slots": [],
+        "samples": [
+          "track my part",
+          "provide part details",
+          "part details",
+          "where is my part",
+          "find parts",
+          "find my part"
+        ]
+      },
+      {
+        "name": "AMAZON.PauseIntent",
+        "slots": [],
+        "samples": []
+      },
+      {
+        "name": "AMAZON.ResumeIntent",
+        "slots": [],
+        "samples": []
+      }
+    ],
+    "types": []
+  }
+}

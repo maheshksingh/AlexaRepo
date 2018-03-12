@@ -1,0 +1,14 @@
+﻿Part track my part
+Part provide part details
+Part part details
+Part where is my part
+Part find parts
+
+
+AMAZON.CancelIntent bye
+AMAZON.CancelIntent cancel
+
+AMAZON.HelpIntent provide assistance
+AMAZON.HelpIntent need help
+
+AMAZON.StopIntent stop
